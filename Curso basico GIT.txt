@@ -1,0 +1,14 @@
+git config --global user.name "NOMBRE"					-----Crear NOMBRE
+git config --global user.email "correo electronico"		-----Crear correo electronico
+git config --global color.io true						-----Asignar configuracion de Color
+git status												-----Ver que tiene alojado
+
+git init // inicia proycto seuusa solo una vez
+git status // muestra lo que ya subimos o lo que nos falta por subir
+git add // adiciona carpetas
+git commit -m "mensaje" /// asigna cmentarios de lo que cambiamos
+git log /// miestra todos los commit que hicimos
+git checkout
+git reset --soft  //no borra codigo  
+git reset --mixed // avanzado 
+git reset --hard   //borra todo 
