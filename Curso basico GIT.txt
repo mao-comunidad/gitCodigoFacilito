@@ -15,3 +15,6 @@ git reset --hard   //borra todo
 COMMIT DE INGRESO DE 1 LINEA
 
 COMMIT DE INGRESO DE 2 LINIEA
+
+
+LINEA DE TEXTO 1 - 1.00PM
