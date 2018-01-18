@@ -1,6 +1,6 @@
-git config --global user.name "NOMBRE"					-----Crear NOMBRE
-git config --global user.email "correo electronico"		-----Crear correo electronico
-git config --global color.io true						-----Asignar configuracion de Color
+git config --global user.name "NOMBRE"					          -----Crear NOMBRE
+git config --global user.email "correo electronico"		    -----Crear correo electronico
+git config --global color.io true						              -----Asignar configuracion de Color
 
 git init // inicia proycto seuusa solo una vez
 git status // muestra lo que ya subimos o lo que nos falta por subir
@@ -12,11 +12,8 @@ git reset --soft  //no borra codigo
 git reset --mixed // avanzado 
 git reset --hard   //borra todo 
 
-COMMIT DE INGRESO DE 1 LINEA
 
-COMMIT DE INGRESO DE 2 LINIEA
+commits...
 
-
-LINEA DE TEXTO 1 - 1.00PM
-
-Linea1 despues de crear el proyecto en GitHub
+1. COMMIT DE INGRESO DE 1 LINEA
+2. Linea1 despues de crear el proyecto en GitHub
