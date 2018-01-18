@@ -18,3 +18,4 @@ commits...
 1. COMMIT DE INGRESO DE 1 LINEA
 2. Linea1 despues de crear el proyecto en GitHub
 Commit local en texteo
+COMMIT REMOTO EN MASTER
